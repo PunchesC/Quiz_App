@@ -12,7 +12,7 @@ function QuestionCard({question,answers,callback,userAnswer,questionNr,totalQues
   
 
   
-  
+ // try switch span with p 
   return (
     <div className="QuestionCard">
       <p className="number">
